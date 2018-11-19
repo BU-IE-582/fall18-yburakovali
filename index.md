@@ -1,5 +1,8 @@
 # Example Progress Journal
 
+## Week 3 (November 19)
+[Here](files/Homework-3.html) is my Homework 3 !
+
 ## Week 2 (October 25)
 [Here](files/Homework-2.html) is my Homework 2 !
 
