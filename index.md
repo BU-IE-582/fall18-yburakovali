@@ -1,5 +1,8 @@
 # Example Progress Journal
 
+## Term Project
+[Here](files/Project.html) is my Term Project !
+
 ## Week 4 (December 19)
 [Here](files/Homework_4.html) is my Homework 4 !
 
